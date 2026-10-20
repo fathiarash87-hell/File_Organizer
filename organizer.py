@@ -3,7 +3,7 @@ from pathlib import Path
 import shutil
 
 
-categories = {  # یک دیکشنری از لیست ها
+categories = {
     "Images": [".jpg", ".jpeg", ".png", ".gif"],
     "Documents": [".pdf", ".docx", ".txt"],
     "Excel": [".xlsx", ".xls", ".csv"],
